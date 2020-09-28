@@ -20,11 +20,11 @@ Install below requirements
 4. Copy the downloaded drivers to C:\Python37\Lib
 5. [Run(as admin) the attached RobotFrameworkInstalltion.py file to install all the required libraries.](RobotFrameworkInstalltion.py)
 6. If you face any issues with installation file, please install the packages manually
-    pip install robotframework==3.2.1
-    pip install robotframework-ride
-    pip install robotframework-seleniumlibrary==3.3.1
-    pip install webdrivermanager
-    pip install robotframework-pabot
+    * pip install robotframework==3.2.1
+    * pip install robotframework-ride
+    * pip install robotframework-seleniumlibrary==3.3.1
+    * pip install webdrivermanager
+    * pip install robotframework-pabot
 6. Once Installation is completed successfully open cmd and run 'pip list', it should display all the installed libraries as below
  ![ScreenShot](InstalledPackages.JPG)
 7. How to execute the test cases from RIDE - [Please refer to the document AutomationExecution.docx](AutomationExecution.docx)
