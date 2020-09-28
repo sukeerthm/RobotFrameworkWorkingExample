@@ -23,7 +23,7 @@
     * pip install robotframework-seleniumlibrary==3.3.1
     * pip install webdrivermanager
     * pip install robotframework-pabot
-6. Once Installation is completed successfully, open cmd and run 'pip list', it should display all the installed libraries as below
+6. Once Installation is completed successfully, open cmd and run 'pip list', it should display all the installed libraries
  ![ScreenShot](InstalledPackages.JPG)
 7. How to execute the test cases from RIDE - [Please refer to the document AutomationExecution.docx](AutomationExecution.docx)
 8. Detail documentation on Framework and Project Structure - [Please refer to the document FrameworkExplanation.docx for detailed explanation](FrameworkExplanation.docx)
