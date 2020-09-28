@@ -4,8 +4,6 @@
 
 ### Requirements
 
-Install below requirements
-
 1. Install python version 3.7.9 (Before installing, uninstall any older version of python and delete the path variables)
 2. After installing python, check system variables are updated with latest python version, if not please add below variables
     - C:\Python37
