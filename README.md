@@ -20,4 +20,5 @@ Install below requirements
 5. Run(as admin) the attached RobotFrameworkInstallation.py file to install all the required libraries. If you face any issues with installation, please install the packages individually
 6. Once Installation is completed successfully open cmd and run 'pip list', it should display all the installed libraries as below
  ![ScreenShot](InstalledPackages.JPG)
+7.  
   
