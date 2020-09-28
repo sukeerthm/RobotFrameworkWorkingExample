@@ -16,7 +16,7 @@
     * geckodriver(https://github.com/mozilla/geckodriver/releases)
     * IEDriverServer (https://www.selenium.dev/downloads/)
 4. Copy the downloaded drivers to C:\Python37\Lib
-5. [Run(as admin) the attached RobotFrameworkInstalltion.py file to install all the required libraries.](RobotFrameworkInstalltion.py)
+5. [Run(as admin) the attached RobotFrameworkInstallation.py file to install all the required libraries.](RobotFrameworkInstallation.py)
 6. If you face any issues with installation file, please install the packages manually
     * pip install robotframework==3.2.1
     * pip install robotframework-ride
