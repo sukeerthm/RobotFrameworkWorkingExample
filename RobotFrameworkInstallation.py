@@ -1,3 +1,4 @@
+#This file install the required packages to run the robotframework
 import subprocess
 import sys
 
@@ -6,6 +7,7 @@ def install_python_library(library):
     subprocess.check_call([sys.executable, '-m', 'pip','install', '--upgrade', library])
     print ('Installtion Completed --' + library)
 
+#list of packages being installed
 install_python_library('robotframework==3.2.1') 
 install_python_library('robotframework-ride')
 install_python_library('robotframework-seleniumlibrary==3.3.1')
