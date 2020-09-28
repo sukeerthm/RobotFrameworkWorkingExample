@@ -5,12 +5,12 @@
 ### Requirements
 
 1. Install python version 3.7.9 (Before installing, uninstall any older version of python and delete the path variables)
-2. After installing python, check system variables are updated with latest python version, if not please add below variables
+2. After installing python, check system variables are updated with latest python version, if not please add below variables (Replace C:\Python37 with your python location)
     - C:\Python37
     - C:\Python37\Scripts\
     - C:\Python37\Lib
     - C:\Python37\Lib\site-packages
-   Replace C:\Python37 with your python location
+   
 3. Download the below drivers based on your browser version
     * Chromedriver(https://chromedriver.chromium.org/downloads) 
     * geckodriver(https://github.com/mozilla/geckodriver/releases)
