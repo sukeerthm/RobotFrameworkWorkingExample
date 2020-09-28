@@ -17,8 +17,8 @@ Install below requirements
     * geckodriver(https://github.com/mozilla/geckodriver/releases)
     * IEDriverServer (https://www.selenium.dev/downloads/)
 4. Copy the downloaded drivers to C:\Python37\Lib
-5. Run(as admin) the attached RobotFrameworkInstallation.py file to install all the required libraries. If you face any issues with installation, please install the packages individually
+5. [Run(as admin) the attached RobotFrameworkInstallation.py file to install all the required libraries. If you face any issues with installation, please install the packages individually](RobotFrameworkInstalltion.py)
 6. Once Installation is completed successfully open cmd and run 'pip list', it should display all the installed libraries as below
  ![ScreenShot](InstalledPackages.JPG)
-7.  
+7. Running the testcases from RIDE - [Please refer to the document AutomationExecution.docx](AutomationExecution.docx)
   
