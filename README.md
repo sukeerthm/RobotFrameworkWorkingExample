@@ -22,8 +22,8 @@ Install below requirements
  ![ScreenShot](InstalledPackages.JPG)
 7. Running the testcases from RIDE - [Please refer to the document AutomationExecution.docx](AutomationExecution.docx)
 8. Details documentaion on Framework and Project Structure - [Please refer to the document FrameworkExplanation.docx for detailed explanation](FrameworkExplanation.docx)
-9. Sample test execution on different browsers 
-    * Chrome ![Watch the video](ExecutedOnChrome.mp4)
-    * Firefox ![Watch the video](ExecutedOnFirefox.mp4)
-    * IE![Watch the video](ExecutedOnIE.mp4)
+9. Please check out the sample test execution on different browsers
+    * [Chrome](ExecutedOnChrome.mp4)
+    * [Firefox](ExecutedOnFirefox.mp4)
+    * [IE](ExecutedOnIE.mp4)
   
