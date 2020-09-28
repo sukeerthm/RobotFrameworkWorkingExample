@@ -1,6 +1,6 @@
 # Westpac Automation Practical Assessment
 
-Automation Tool/Framework Used - ## Robot Framework
+## Automation Tool/Framework Used - Robot Framework
 
 ### Requirements
 
