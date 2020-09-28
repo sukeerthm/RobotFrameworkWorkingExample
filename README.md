@@ -4,7 +4,7 @@ Automation Tool/Framework Used - Robot Framework
 
 #Requirements
 
-Please install below requirements
+Install below requirements
 
 1. Install python version 3.7.9 (Before installing, Please uninstall any older version of python and delete the path variables)
 2. Please check system variables are updated with latest python, if not please add below variables  
