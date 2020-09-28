@@ -1,4 +1,4 @@
-#This file install the required packages to run the robotframework
+#This file will install the required packages to run the robotframework
 import subprocess
 import sys
 
