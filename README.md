@@ -11,7 +11,7 @@
     - C:\Python37\Lib
     - C:\Python37\Lib\site-packages
    
-3. Download the below drivers based on your browser version
+3. Download the drivers based on your browser version
     * Chromedriver(https://chromedriver.chromium.org/downloads) 
     * geckodriver(https://github.com/mozilla/geckodriver/releases)
     * IEDriverServer (https://www.selenium.dev/downloads/)
