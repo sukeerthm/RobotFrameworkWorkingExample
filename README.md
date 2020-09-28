@@ -21,4 +21,9 @@ Install below requirements
 6. Once Installation is completed successfully open cmd and run 'pip list', it should display all the installed libraries as below
  ![ScreenShot](InstalledPackages.JPG)
 7. Running the testcases from RIDE - [Please refer to the document AutomationExecution.docx](AutomationExecution.docx)
+8. Details documentaion on Framework and Project Structure - [Please refer to the document FrameworkExplanation.docx for detailed explanation](FrameworkExplanation.docx)
+9. Sample test execution on different browsers 
+    * Chrome [![Watch the video](ExecutedOnChrome.mp4)
+    * Firefox [![Watch the video](ExecutedOnFirefox.mp4)
+    * IE[![Watch the video](ExecutedOnIE.mp4)
   
