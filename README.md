@@ -1,4 +1,4 @@
-# Westpac Automation Practical Assessment
+# Test Automation
 
 ## Automation Tool/Framework Used - Robot Framework
 
